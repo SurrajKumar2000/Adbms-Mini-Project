@@ -19,6 +19,7 @@
 >>pip install Flask
 
 >To run the project
->> Create a folder 
+>> python filename.py
+>>flask run
 
->To
+This will start the Flask server and make the website available at http://localhost:5000/ in the web browser.
