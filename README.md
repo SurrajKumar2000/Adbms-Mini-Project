@@ -12,3 +12,13 @@
 5.Routes in Flask: Routes in Flask are defined to display the HTML template and deliver the prospect dataset to the HTML file.
 
 6.Starting the app: To display the prospect dataset, the Flask app is launched and a web browser window is opened.
+
+## How to run the project:
+
+>To install flask
+>>pip install Flask
+
+>To run the project
+>> Create a folder 
+
+>To
