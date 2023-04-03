@@ -1,5 +1,4 @@
 # Adbms-Mini-Project
-***
 ## Overview: 
 
 1.Pandas is used to clean and prepare the prospect dataset for the website.
